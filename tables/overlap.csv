@@ -1,0 +1,7 @@
+Between,Season,N,Min,Max,Median,Mean,CI Left,CI Right,sd_error
+Males,Wet,42,0,512.5,0,93.5,44.8,142.2,24.1
+Females,Wet,210,0,1040.1,0,190.0,151.8,228.1,19.3
+Males and Females,Wet,462,0,1040.1,0,169.6,146.5,192.8,11.8
+Males,Dry,42,0,629.0,0,84.0,29.7,138.3,26.9
+Females,Dry,210,0,1010.0,0,164.7,126.0,203.3,19.6
+Males and Females,Dry,462,0,1327.3,0,155.1,130.8,179.4,12.4

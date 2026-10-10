@@ -1,0 +1,9 @@
+Predictor,Estimate,Std. Error,t value,Pr(>|t|),Sex,psign
+Crisis,5.593,1.314,4.257,0,Male,***
+Road,3.061,1.664,1.839,0.067,Male,ns
+Water Point,-4.106,1.123,-3.657,0,Male,***
+Water,14.359,2.780,5.165,0,Male,***
+Crisis,4.978,0.911,5.462,0,Female,***
+Road,1.349,1.181,1.142,0.254,Female,ns
+Water Point,-1.841,1.078,-1.708,0.088,Female,ns
+Water,4.197,1.153,3.640,0,Female,***
