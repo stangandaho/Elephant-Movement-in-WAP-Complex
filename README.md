@@ -1,4 +1,4 @@
-# Elephant movement in the W-Arly-Pendjari complex
+# Seasonal and environmental determinants of African elephant (*Loxodonta africana*) movement in the W-Arly-Pendjari complex
 
 This repository contains the R code and outputs supporting the article of [Akpona et al. (2025)](https://doi.org/10.1016/j.jnc.2026.127225).
 
