@@ -12,9 +12,15 @@ Home ranges were estimated per individual, sex, season and park with kernel util
 
 ## Repository structure
 
-The `scripts/` folder holds the full workflow. `setup.R` installs and loads the required packages, defines colours, fonts and the list of elephants retained for analysis, and `utils.R` contains helper functions, including the `home_range()` wrapper used for kernel estimation. The numbered scripts are meant to be run in order: `01_elephant_home_range.R` prepares the collar data and writes the home range shapefiles, `02_elephant_home_range_stats.R` tests seasonal differences in home range size (Figure 3), `03_elephant_home_range_viz.R` maps individual home ranges, `04_home_range_intersection.R` computes pairwise overlap (Figure 4 and `tables/overlap.csv`), `05_elephant_travel_length.R` analyses monthly travel distances (Figure 5), and `06_study_area.R` summarises the study area and climate (Figure 1). `worldclim.R` downloads and crops the WorldClim layers, and `prepare_proximity_data.R` builds the distance rasters for water, roads and conflict events.
+- `scripts/` folder holds the full workflow. `setup.R` installs and loads the required packages, defines colours, fonts and the list of elephants retained for analysis, and `utils.R` contains helper functions, including the `home_range()` wrapper used for kernel estimation. The numbered scripts are meant to be run in order: `01_elephant_home_range.R` prepares the collar data and writes the home range shapefiles, `02_elephant_home_range_stats.R` tests seasonal differences in home range size (Figure 3), `03_elephant_home_range_viz.R` maps individual home ranges, `04_home_range_intersection.R` computes pairwise overlap (Figure 4 and `tables/overlap.csv`), `05_elephant_travel_length.R` analyses monthly travel distances (Figure 5), and `06_study_area.R` summarises the study area and climate (Figure 1). `worldclim.R` downloads and crops the WorldClim layers, and `prepare_proximity_data.R` builds the distance rasters for water, roads and conflict events.
 
-The `home_range/` folder stores the home range polygons produced by script 01, one shapefile per sex, season and park. The `tables/` folder contains the summary tables reported in the article, and `plots/` contains the figures and the Supporting Information. The `fonts/` folder provides the Montserrat font used in all figures.
+- `home_range/` folder stores the home range polygons produced by script 01, one shapefile per sex, season and park. 
+
+- `tables/` folder contains the summary tables reported in the article
+
+- `plots/` contains the figures and the Supporting Information.
+
+- `fonts/` folder provides the Montserrat font used in all figures.
 
 ## Data availability
 
