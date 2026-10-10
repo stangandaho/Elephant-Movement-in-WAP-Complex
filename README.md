@@ -1,8 +1,7 @@
 # Elephant movement in the W-Arly-Pendjari complex
 
-This repository contains the R code and outputs supporting the article:
+This repository contains the R code and outputs supporting the article of [Akpona et al. (2025)](https://doi.org/10.1016/j.jnc.2026.127225).
 
-Akpona, H. A., Gandaho, S. M., Gbemavo, C. D. S. J., Nobime, G., Kassa, B., & Djagoun, C. A. M. S. (2026). Seasonal and environmental determinants of African elephant (*Loxodonta africana*) movement in the W-Arly-Pendjari complex. *Journal for Nature Conservation*, 91, 127225. https://doi.org/10.1016/j.jnc.2026.127225
 
 ## Overview
 
@@ -32,4 +31,5 @@ Open `Elephant Movment.Rproj` in RStudio so that all relative paths resolve from
 
 ## Citation
 
-If you use this code, please cite the article above.
+Akpona, H. A., Gandaho, S. M., Gbemavo, C. D. S. J., Nobime, G., Kassa, B., & Djagoun, C. A. M. S. (2026). Seasonal and environmental determinants of African elephant (*Loxodonta africana*) movement in the W-Arly-Pendjari complex. *Journal for Nature Conservation*, 91, 127225. https://doi.org/10.1016/j.jnc.2026.127225
+
